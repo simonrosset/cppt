@@ -1,0 +1,15 @@
+# Build-Verzeichnis ignorieren
+/build/
+
+# Logs ignorieren
+/log/
+
+# Compilierte Dateien
+*.o
+*.out
+*.exe
+
+# Editor / IDE Zeug
+*.swp
+*.swo
+*.log
